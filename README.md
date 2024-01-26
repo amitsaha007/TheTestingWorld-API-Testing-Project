@@ -37,10 +37,10 @@ npm install -g newman-reporter-htmlextra
 
 ## Test case list:
 1. ### Create Student
-	> Create Data Sets Using the Dynamic Random Variables.
+	:large_orange_diamond: Create Data Sets Using the Dynamic Random Variables.
 
 2. ### Verify Created Student Details
-	> In the test case you need to validate the following field values:
+	:large_orange_diamond: In the test case you need to validate the following field values:
  	1. > ID
  	2. > First Name
  	3. > Middle Name
@@ -48,19 +48,19 @@ npm install -g newman-reporter-htmlextra
 	4. > Date of Birth
 
 3. ### Get all students information
-	> Fetch all the details of the students from the server.
-	> Create a test case to check the length of the response.
+	:large_orange_diamond: Fetch all the details of the students from the server.
+	:large_orange_diamond: Create a test case to check the length of the response.
 
 5. ### Create Technical skills Create Student Address
-	> In the test case you need to validate the following field values:
+	:large_orange_diamond: In the test case you need to validate the following field values:
 	1. > Only Message
 
 6. ### Create a Student Address
-	> In the test case you need to validate the following field values:
+	:large_orange_diamond: In the test case you need to validate the following field values:
 	1. > Status and Message field values
 
 7. ### Get the Student's Full Details
-	> In the test case you need to validate the following field values:
+	:large_orange_diamond: In the test case you need to validate the following field values:
 	1. > Language
 	2. > Year Of Experience
 	3. > House Number
